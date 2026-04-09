@@ -1,0 +1,8 @@
+cat > .gitignore << EOF
+.env
+dbt_venv/
+logs/
+__pycache__/
+*.pyc
+.dbt/
+EOF
