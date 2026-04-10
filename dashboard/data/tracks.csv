@@ -1,0 +1,80 @@
+track_id,track_name,artist_name,album_name,chart_market,track_genre,artist_genre,price,price_tier,release_date,chart_date,days_since_release,release_category,loaded_at
+1877913732,Of All People,Foo Fighters,Your Favorite Toy,us,Rock,Rock,1.29,premium,,2026-04-10 15:35:58.377201,,catalogue,2026-04-10 08:36:01.910
+1844932150,Choosin' Texas,Ella Langley,Choosin' Texas - Single,us,Country,Country,1.29,premium,2025-10-17,2026-04-10 15:35:58.377252,175.0,recent,2026-04-10 08:36:01.910
+1888967469,Celebrate Me,IngaRose,Celebrate Me - Single,us,Blues,Blues,0.99,standard,2026-03-31,2026-04-10 15:35:58.377265,10.0,new_release,2026-04-10 08:36:01.910
+1891607435,SWIM with V (Electronic Remix) [Pixel Cover Version],BTS,SWIM with V (Electronic Remix) [Pixel Cover Version] - Single,us,Pop,Pop,0.69,standard,2026-04-09,2026-04-10 15:35:58.377274,1.0,new_release,2026-04-10 08:36:01.910
+1891607097,SWIM with Jung Kook (Acoustic Lofi Remix) [Pixel Cover Version],BTS,SWIM with Jung Kook (Acoustic Lofi Remix) [Pixel Cover Version] - Single,us,Pop,Pop,0.69,standard,2026-04-09,2026-04-10 15:35:58.377284,1.0,new_release,2026-04-10 08:36:01.910
+1891605835,SWIM with j-hope (Afrobeat Remix) [Pixel Cover Version],BTS,SWIM with j-hope (Afrobeat Remix) [Pixel Cover Version] - Single,us,Pop,Pop,0.69,standard,2026-04-09,2026-04-10 15:35:58.377289,1.0,new_release,2026-04-10 08:36:01.910
+1891606029,SWIM with Jimin (Slow Jam R&B Remix) [Pixel Cover Version],BTS,SWIM with Jimin (Slow Jam R&B Remix) [Pixel Cover Version] - Single,us,Pop,Pop,0.69,standard,2026-04-09,2026-04-10 15:35:58.377294,1.0,new_release,2026-04-10 08:36:01.910
+1891606407,SWIM with Jin (Alternative Rock Remix) [Pixel Cover Version],BTS,SWIM with Jin (Alternative Rock Remix) [Pixel Cover Version] - Single,us,Pop,Pop,0.69,standard,2026-04-09,2026-04-10 15:35:58.377299,1.0,new_release,2026-04-10 08:36:01.910
+1891608104,SWIM with RM (Chill Hip Hop Remix) [Pixel Cover Version],BTS,SWIM with RM (Chill Hip Hop Remix) [Pixel Cover Version] - Single,us,Pop,Pop,0.69,standard,2026-04-09,2026-04-10 15:35:58.377304,1.0,new_release,2026-04-10 08:36:01.910
+1891636679,SWIM with SUGA (Melodic Techno Remix) [Pixel Cover Version],BTS,SWIM with SUGA (Melodic Techno Remix) [Pixel Cover Version] - Single,us,Pop,Pop,0.69,standard,2026-04-09,2026-04-10 15:35:58.377309,1.0,new_release,2026-04-10 08:36:01.910
+1869436845,Be Her,Ella Langley,Dandelion,us,Country,Country,1.29,premium,2026-02-13,2026-04-10 15:35:58.377313,56.0,recent,2026-04-10 08:36:01.910
+1869436838,Dandelion,Ella Langley,Dandelion,us,Country,Country,1.29,premium,2026-01-30,2026-04-10 15:35:58.377319,70.0,recent,2026-04-10 08:36:01.910
+1869436847,Loving Life Again,Ella Langley,Dandelion,us,Country,Country,1.29,premium,2026-03-20,2026-04-10 15:35:58.377324,21.0,new_release,2026-04-10 08:36:01.910
+1885488076,Another Day Old,Eddie Dalton,Another Day Old - Single,us,Blues,Blues,0.99,standard,2026-03-15,2026-04-10 15:35:58.377328,26.0,new_release,2026-04-10 08:36:01.910
+1880847909,As Time Goes By,Josh Groban,CINEMATIC,us,Pop,Pop,1.29,premium,2026-04-10,2026-04-10 15:35:58.377337,0.0,new_release,2026-04-10 08:36:01.910
+1873280361,Partners in Crime,Social Distortion,Born to Kill,us,Rock,Rock,1.29,premium,,2026-04-10 15:35:58.377346,,catalogue,2026-04-10 08:36:01.910
+1890389604,Somewhere Along The Way,Eddie Dalton,The Years Between,us,Blues,Blues,0.99,standard,2026-04-01,2026-04-10 15:35:58.377355,9.0,new_release,2026-04-10 08:36:01.910
+1889361602,Mr. Know It All,Teddy Swims,Mr. Know It All - Single,us,Pop,Pop,1.29,premium,2026-04-09,2026-04-10 15:35:58.377360,1.0,new_release,2026-04-10 08:36:01.910
+1887606227,Kingdom of Fear,Cameron Whitcomb,Deep Water - EP,us,Country,Country,1.29,premium,2026-03-27,2026-04-10 15:35:58.377369,14.0,new_release,2026-04-10 08:36:01.910
+1891104594,Who Will You Follow,Evanescence,Sanctuary,us,Rock,Rock,1.29,premium,2026-04-10,2026-04-10 15:35:58.377377,0.0,new_release,2026-04-10 08:36:01.910
+1889379246,Stay a Little Longer,Eddie Dalton,Stay a Little Longer - Single,us,Blues,Blues,0.99,standard,2026-03-29,2026-04-10 15:35:58.377385,12.0,new_release,2026-04-10 08:36:01.910
+1866732800,I Just Might,Bruno Mars,The Romantic,us,Pop,Pop,0.69,standard,2026-01-09,2026-04-10 15:35:58.377390,91.0,recent,2026-04-10 08:36:01.910
+1868482073,SWIM,BTS,ARIRANG,us,Pop,Pop,0.69,standard,2026-03-20,2026-04-10 15:35:58.377398,21.0,new_release,2026-04-10 08:36:01.910
+1862634805,Be By You,Luke Combs,The Way I Am,us,Country,Country,1.29,premium,2026-03-20,2026-04-10 15:35:58.377405,21.0,new_release,2026-04-10 08:36:01.910
+1873286318,Children of Light (feat. Max Cavalera),Atreyu & Soulfly,The End is Not the End,us,Metal,Metal,1.29,premium,,2026-04-10 15:35:58.377414,,catalogue,2026-04-10 08:36:01.910
+1866700770,Already There,Young the Giant,Victory Garden,us,Alternative,Alternative,1.29,premium,,2026-04-10 15:35:58.377422,,catalogue,2026-04-10 08:36:01.910
+1793663645,Ordinary,Alex Warren,Ordinary - Single,us,Pop,Pop,0.69,standard,2024-09-26,2026-04-10 15:35:58.377431,561.0,catalogue,2026-04-10 08:36:01.910
+1890162617,Love Me When It’s Hard,IngaRose,Love Me When It’s Hard - Single,us,Blues,Blues,0.99,standard,2026-04-01,2026-04-10 15:35:58.377439,9.0,new_release,2026-04-10 08:36:01.910
+1749121123,you look like you love me,Ella Langley & Riley Green,hungover,us,Country,Country,1.29,premium,2024-06-21,2026-04-10 15:35:58.377443,658.0,catalogue,2026-04-10 08:36:01.910
+1226034393,Sign of the Times,Harry Styles,Harry Styles,us,Pop,Pop,1.29,premium,2017-04-07,2026-04-10 15:35:58.377452,3290.0,catalogue,2026-04-10 08:36:01.910
+1840517116,Attitude,Melanie C,Sweat,us,Pop,Pop,0.99,standard,,2026-04-10 15:35:58.377460,,catalogue,2026-04-10 08:36:01.910
+1817609509,Man I Need,Olivia Dean,The Art of Loving,us,Pop,Pop,1.29,premium,2025-09-26,2026-04-10 15:35:58.377468,196.0,recent,2026-04-10 08:36:01.910
+1891104596,Afterlife,Evanescence,Sanctuary,us,Rock,Rock,1.29,premium,2025-03-28,2026-04-10 15:35:58.377477,378.0,catalogue,2026-04-10 08:36:01.910
+1799727554,Let Him In Anyway,Blake Shelton,For Recreational Use Only,us,Country,Country,1.29,premium,2025-03-14,2026-04-10 15:35:58.377482,392.0,catalogue,2026-04-10 08:36:01.910
+1838737598,WHERE IS MY HUSBAND!,RAYE,WHERE IS MY HUSBAND! - Single,us,Pop,Pop,0.99,standard,2025-09-19,2026-04-10 15:35:58.377490,203.0,recent,2026-04-10 08:36:01.910
+267537169,Iris,The Goo Goo Dolls,"Greatest Hits, Vol. One: The Singles",us,Rock,Rock,1.29,premium,1998-03-31,2026-04-10 15:35:58.377498,10237.0,catalogue,2026-04-10 08:36:01.910
+1887978274,The Jesus I Know Now,Brandon Lake & Lainey Wilson,The Jesus I Know Now - Single,us,Christian,Christian,1.29,premium,2026-04-03,2026-04-10 15:35:58.377506,7.0,new_release,2026-04-10 08:36:01.910
+1820264150,Golden,"HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",KPop Demon Hunters (Soundtrack from the Netflix Film),us,K-Pop,K-Pop,1.29,premium,2025-06-19,2026-04-10 15:35:58.377514,295.0,recent,2026-04-10 08:36:01.910
+1866732797,Risk It All,Bruno Mars,The Romantic,us,Pop,Pop,0.69,standard,2026-02-27,2026-04-10 15:35:58.377522,42.0,recent,2026-04-10 08:36:01.910
+1817609507,So Easy (To Fall In Love),Olivia Dean,The Art of Loving,us,Pop,Pop,1.29,premium,2025-09-26,2026-04-10 15:35:58.377527,196.0,recent,2026-04-10 08:36:01.910
+1890389605,Dreaming Of You,Eddie Dalton,The Years Between,us,Blues,Blues,0.99,standard,2026-04-01,2026-04-10 15:35:58.377532,9.0,new_release,2026-04-10 08:36:01.910
+1869436848,Bottom Of Your Boots,Ella Langley,Dandelion,us,Country,Country,1.29,premium,2026-04-10,2026-04-10 15:35:58.377537,0.0,new_release,2026-04-10 08:36:01.910
+1877978274,Joy,Dogstar,All In Now,us,Alternative,Alternative,1.29,premium,,2026-04-10 15:35:58.377542,,catalogue,2026-04-10 08:36:01.910
+1879596115,Freakin’ Out,Dexter and The Moonrocks,Freakin’ Out - Single,us,Rock,Rock,1.29,premium,2026-03-11,2026-04-10 15:35:58.377550,30.0,new_release,2026-04-10 08:36:01.910
+1884960541,Running To You,Eddie Dalton,Running To You - Single,us,Blues,Blues,0.99,standard,2026-03-14,2026-04-10 15:35:58.377558,27.0,new_release,2026-04-10 08:36:01.910
+1890468637,VALHALLA CALLING,Ragal Ironbull,VALHALLA CALLING - Single,us,Folk,Folk,0.99,standard,2026-04-03,2026-04-10 15:35:58.377563,7.0,new_release,2026-04-10 08:36:01.910
+1882102200,Lions At The Gate (feat. Tom Morello),Peter Frampton,Carry The Light,us,Rock,Rock,1.29,premium,,2026-04-10 15:35:58.377571,,catalogue,2026-04-10 08:36:01.910
+1862634694,Days Like These,Luke Combs,The Way I Am,us,Country,Country,1.29,premium,2025-10-02,2026-04-10 15:35:58.377589,190.0,recent,2026-04-10 08:36:01.910
+1869436853,Broken,Ella Langley,Dandelion,us,Country,Country,1.29,premium,2026-04-10,2026-04-10 15:35:58.377595,0.0,new_release,2026-04-10 08:36:01.910
+1888685262,Not for me,IngaRose,Not for me - Single,us,Blues,Blues,0.99,standard,2026-03-27,2026-04-10 15:35:58.377668,14.0,new_release,2026-04-10 08:36:01.910
+1863814124,On Our Way Along,Billy Ray Cyrus & Noah Cyrus,On Our Way Along - Single,gb,Country,Country,0.99,standard,2026-04-03,2026-04-10 15:35:58.512517,7.0,new_release,2026-04-10 08:36:01.910
+1890222345,Who Will You Follow,Evanescence,Sanctuary,gb,Rock,Rock,0.99,standard,,2026-04-10 15:35:58.512522,,catalogue,2026-04-10 08:36:01.910
+1879983789,FEVER DREAM,Alex Warren,FEVER DREAM - Single,gb,Pop,Pop,0.99,standard,2026-03-13,2026-04-10 15:35:58.512529,28.0,new_release,2026-04-10 08:36:01.910
+1890222707,Afterlife,Evanescence,Sanctuary,gb,Rock,Rock,0.99,standard,2025-03-28,2026-04-10 15:35:58.512540,378.0,catalogue,2026-04-10 08:36:01.910
+1886119370,My Mess,Myles Smith,"My Mess, My Heart, My Life.",gb,Singer/Songwriter,Singer/Songwriter,0.99,standard,,2026-04-10 15:35:58.512546,,catalogue,2026-04-10 08:36:01.910
+1838810951,The Fate of Ophelia,Taylor Swift,The Life of a Showgirl,gb,Pop,Pop,0.99,standard,2025-10-03,2026-04-10 15:35:58.512550,189.0,recent,2026-04-10 08:36:01.910
+1878015314,New Religion,Bebe Rexha & Faithless,New Religion - Single,gb,Dance,Dance,0.59,standard,2026-03-06,2026-04-10 15:35:58.512561,35.0,recent,2026-04-10 08:36:01.910
+1884898399,LET ME BE,The Second Voice,LET ME BE - Single,gb,Dance,Dance,0.99,standard,2026-01-25,2026-04-10 15:35:58.512568,75.0,recent,2026-04-10 08:36:01.910
+1870984036,American Girls,Harry Styles,"Kiss All The Time. Disco, Occasionally.",gb,Pop,Pop,0.99,standard,2026-03-06,2026-04-10 15:35:58.512572,35.0,recent,2026-04-10 08:36:01.910
+1887385342,"Younger You (From the ""Hannah Montana 20th Anniversary Special"")",Miley Cyrus,"Younger You (From the ""Hannah Montana 20th Anniversary Special"") - Single",gb,Pop,Pop,0.99,standard,2026-03-27,2026-04-10 15:35:58.512578,14.0,new_release,2026-04-10 08:36:01.910
+1838810953,Opalite,Taylor Swift,The Life of a Showgirl,gb,Pop,Pop,0.59,standard,2025-10-03,2026-04-10 15:35:58.512582,189.0,recent,2026-04-10 08:36:01.910
+1871595253,Homewrecker,sombr,Homewrecker - Single,gb,Pop,Pop,0.99,standard,2026-02-05,2026-04-10 15:35:58.512584,64.0,recent,2026-04-10 08:36:01.910
+1828036635,12 to 12,sombr,12 to 12 - Single,gb,Indie Rock,Pop,0.59,standard,2025-07-24,2026-04-10 15:35:58.512588,260.0,recent,2026-04-10 08:36:01.910
+1887979317,Flowers,Blue,Flowers - Single,gb,Pop,Pop,0.99,standard,,2026-04-10 15:35:58.512591,,catalogue,2026-04-10 08:36:01.910
+1874672062,Just The Way You Are,Milky,Just The Way You Are - Single,gb,Dance,Dance,0.59,standard,2002-01-01,2026-04-10 15:35:58.512595,8865.0,catalogue,2026-04-10 08:36:01.910
+1847992612,Raindance,Dave & Tems,The Boy Who Played the Harp,gb,Hip-Hop/Rap,Hip-Hop/Rap,0.59,standard,2025-10-24,2026-04-10 15:35:58.512600,168.0,recent,2026-04-10 08:36:01.910
+1888238250,Raindrops,Rick Astley,Raindrops - Single,gb,Pop,Pop,0.99,standard,,2026-04-10 15:35:58.512604,,catalogue,2026-04-10 08:36:01.910
+1226021297,Sign of the Times,Harry Styles,Harry Styles,gb,Pop,Pop,0.99,standard,2017-04-07,2026-04-10 15:35:58.512607,3290.0,catalogue,2026-04-10 08:36:01.910
+1891161450,Going Shopping,The Strokes,Reality Awaits,gb,Alternative,Alternative,0.99,standard,2026-04-07,2026-04-10 15:35:58.512610,3.0,new_release,2026-04-10 08:36:01.910
+1885621580,Love And Country Music,Kylie Morgan,"The Healed Cowgirl, Pt. 1",gb,Country,Country,0.99,standard,,2026-04-10 15:35:58.512614,,catalogue,2026-04-10 08:36:01.910
+1632448108,End of Beginning,Djo,DECIDE,gb,Alternative,Alternative,0.59,standard,2024-03-01,2026-04-10 15:35:58.512618,770.0,catalogue,2026-04-10 08:36:01.910
+1881933787,My Inner Vitriol,Bradley Jago,My Inner Vitriol - EP,gb,Adult Contemporary,Adult Contemporary,0.99,standard,,2026-04-10 15:35:58.512622,,catalogue,2026-04-10 08:36:01.910
+1886174578,Tears Won’t Lie,Brooke Combe,Tears Won’t Lie - Single,gb,Soul,Soul,0.99,standard,2026-04-08,2026-04-10 15:35:58.512627,2.0,new_release,2026-04-10 08:36:01.910
+1841769602,Die On This Hill,SIENNA SPIRO,Die On This Hill - Single,gb,Pop,Pop,0.99,standard,2025-10-10,2026-04-10 15:35:58.512631,182.0,recent,2026-04-10 08:36:01.910
+1871085694,Click Clack Symphony. (feat. Hans Zimmer),RAYE,THIS MUSIC MAY CONTAIN HOPE.,gb,Pop,Pop,0.99,standard,2026-03-27,2026-04-10 15:35:58.512635,14.0,new_release,2026-04-10 08:36:01.910
+1882146993,The Visitor,SIENNA SPIRO,The Visitor - Single,gb,Pop,Pop,0.99,standard,2026-03-13,2026-04-10 15:35:58.512637,28.0,new_release,2026-04-10 08:36:01.910
+1870984033,Aperture,Harry Styles,"Kiss All The Time. Disco, Occasionally.",gb,Pop,Pop,0.99,standard,2026-01-22,2026-04-10 15:35:58.512645,78.0,recent,2026-04-10 08:36:01.910
+1887403088,Days We Left Behind,Paul McCartney,The Boys of Dungeon Lane,gb,Rock,Rock,0.99,standard,,2026-04-10 15:35:58.512649,,catalogue,2026-04-10 08:36:01.910
+1868401959,All About Us 2.0 (feat. Montell Jordan),Peter Andre,Legacy,gb,Pop,Pop,0.99,standard,,2026-04-10 15:35:58.512653,,catalogue,2026-04-10 08:36:01.910

@@ -45,37 +45,22 @@ hr { border-color: #1a1a2e; }
 # ── SNOWFLAKE CONNECTION ─────────────────────────────────────────
 @st.cache_resource
 def get_connection():
-    try:
-        return snowflake.connector.connect(
-            account   = st.secrets["snowflake"]["account"],
-            user      = st.secrets["snowflake"]["user"],
-            password  = st.secrets["snowflake"]["password"],
-            warehouse = st.secrets["snowflake"]["warehouse"],
-            database  = st.secrets["snowflake"]["database"],
-            role      = st.secrets["snowflake"]["role"],
-        )
-    except Exception:
-        return snowflake.connector.connect(
-            account          = "vo17647.us-east-2.aws",
-            user             = "DOBEROI1",
-            private_key_file = str(Path.home() / ".dbt" / "rsa_key.p8"),
-            warehouse        = "SPOTIFY_WH",
-            database         = "SPOTIFY_DB",
-            role             = "ACCOUNTADMIN",
-        )
+    # Always use st.secrets on Streamlit Cloud
+    return snowflake.connector.connect(
+        account   = st.secrets["snowflake"]["account"],
+        user      = st.secrets["snowflake"]["user"],
+        password  = st.secrets["snowflake"]["password"],
+        warehouse = st.secrets["snowflake"]["warehouse"],
+        database  = st.secrets["snowflake"]["database"],
+        role      = st.secrets["snowflake"]["role"],
+    )
 
-@st.cache_data(ttl=3600)
+
+@st.cache_data
 def load_data():
-    conn = get_connection()
-    tracks = pd.read_sql(
-        "SELECT * FROM SPOTIFY_DB.RAW_MARTS.FCT_TRACK_PERFORMANCE", conn
-    )
-    artists = pd.read_sql(
-        "SELECT * FROM SPOTIFY_DB.RAW_MARTS.DIM_ARTISTS", conn
-    )
-    # Normalise all column names to lowercase
-    tracks.columns  = tracks.columns.str.lower()
-    artists.columns = artists.columns.str.lower()
+    base = Path(__file__).parent
+    tracks  = pd.read_csv(base / "data" / "tracks.csv")
+    artists = pd.read_csv(base / "data" / "artists.csv")
     return tracks, artists
 
 # ── LOAD DATA ────────────────────────────────────────────────────
