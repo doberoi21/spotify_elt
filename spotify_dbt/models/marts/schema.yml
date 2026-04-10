@@ -1,0 +1,38 @@
+version: 2
+
+models:
+  - name: fct_track_performance
+    description: "Fact table — one row per track per chart market with performance metrics"
+    columns:
+      - name: track_id
+        description: "iTunes track identifier"
+        tests:
+          - not_null
+      - name: track_name
+        tests:
+          - not_null
+      - name: artist_name
+        tests:
+          - not_null
+      - name: chart_market
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['us', 'gb']
+      - name: release_category
+        tests:
+          - accepted_values:
+              values: ['new_release', 'recent', 'catalogue']
+
+  - name: dim_artists
+    description: "Artist dimension — one row per artist per market with chart summary"
+    columns:
+      - name: artist_name
+        tests:
+          - not_null
+      - name: chart_market
+        tests:
+          - not_null
+      - name: total_tracks_charted
+        tests:
+          - not_null

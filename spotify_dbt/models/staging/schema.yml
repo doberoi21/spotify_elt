@@ -1,0 +1,41 @@
+version: 2
+
+models:
+  - name: stg_tracks
+    description: "Cleaned track data from iTunes Top 50 charts"
+    columns:
+      - name: track_id
+        description: "Unique iTunes track identifier"
+        tests:
+          - not_null
+      - name: track_name
+        description: "Name of the track"
+        tests:
+          - not_null
+      - name: artist_name
+        description: "Primary artist name"
+        tests:
+          - not_null
+      - name: chart_market
+        description: "Chart market — us or gb"
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['us', 'gb']
+      - name: price_tier
+        description: "Pricing category"
+        tests:
+          - accepted_values:
+              values: ['free', 'standard', 'premium']
+
+  - name: stg_artists
+    description: "Deduplicated artist data from iTunes charts"
+    columns:
+      - name: artist_name
+        description: "Artist name"
+        tests:
+          - not_null
+      - name: chart_market
+        description: "Chart market"
+        tests:
+          - not_null
